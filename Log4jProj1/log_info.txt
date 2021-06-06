@@ -1,0 +1,9 @@
+2021-06-06 11:28:17 WARN dbc.SelectTest2       main main       678 61  com.nt.jdbc.SelectTest:: The records are ResultSet obj are retrived using getStrting(-) for all cols ..change them accordingly
+2021-06-06 11:28:17 WARN dbc.SelectTest2       main main       679 61  com.nt.jdbc.SelectTest:: The records are ResultSet obj are retrived using getStrting(-) for all cols ..change them accordingly
+2021-06-06 11:28:17 WARN dbc.SelectTest2       main main       679 61  com.nt.jdbc.SelectTest:: The records are ResultSet obj are retrived using getStrting(-) for all cols ..change them accordingly
+2021-06-06 11:28:17 DEBUG dbc.SelectTest2       main main       679 63  com.nt.jdbc.SelectTest::ResultSet obj is processed
+2021-06-06 11:28:17 DEBUG dbc.SelectTest2       main main       680 75  com.nt.jdbc.SelectTest: Closing JDBC objs
+2021-06-06 11:28:17 DEBUG dbc.SelectTest2       main main       680 80  com.nt.jdbc.SelectTest: ResultSet obj is closed
+2021-06-06 11:28:17 DEBUG dbc.SelectTest2       main main       680 89  com.nt.jdbc.SelectTest: Statement  obj is closed
+2021-06-06 11:28:17 DEBUG dbc.SelectTest2       main main       681 98  com.nt.jdbc.SelectTest:  Connection  obj is closed
+2021-06-06 11:28:17 DEBUG dbc.SelectTest2       main main       683 106  com.nt.jdbc.SelectTest: end of main(-) method
