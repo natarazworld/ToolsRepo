@@ -1,0 +1,14 @@
+2021-06-20 10:43:24 INFO  SelectTest2:19 [main] - com.nt.jdbc.SelectTest:: Log4j Setup ready
+2021-06-20 10:43:24 DEBUG SelectTest2:28 [main] - SelectTest:: start of main(-) method
+2021-06-20 10:43:24 DEBUG SelectTest2:35 [main] - com.nt.jdbc.SelectTest:: JDBC driver driver class loaded
+2021-06-20 10:43:24 INFO  SelectTest2:39 [main] - com.nt.jdbc.SelectTest:: Connection is established with DB s/w
+2021-06-20 10:43:24 DEBUG SelectTest2:43 [main] - com.nt.jdbc.SelectTest: JDBC Statement object is created
+2021-06-20 10:43:24 DEBUG SelectTest2:48 [main] - com.nt.jdbc.SelectTest: SQL query is send to Db s/w for execution and ResultSet obj is generated
+2021-06-20 10:43:24 WARN  SelectTest2:58 [main] - com.nt.jdbc.SelectTest:: The records are ResultSet obj are retrived using getStrting(-) for all cols ..change them accordingly
+2021-06-20 10:43:24 WARN  SelectTest2:58 [main] - com.nt.jdbc.SelectTest:: The records are ResultSet obj are retrived using getStrting(-) for all cols ..change them accordingly
+2021-06-20 10:43:24 DEBUG SelectTest2:60 [main] - com.nt.jdbc.SelectTest::ResultSet obj is processed
+2021-06-20 10:43:24 DEBUG SelectTest2:72 [main] - com.nt.jdbc.SelectTest: Closing JDBC objs
+2021-06-20 10:43:24 DEBUG SelectTest2:77 [main] - com.nt.jdbc.SelectTest: ResultSet obj is closed
+2021-06-20 10:43:24 DEBUG SelectTest2:86 [main] - com.nt.jdbc.SelectTest: Statement  obj is closed
+2021-06-20 10:43:24 DEBUG SelectTest2:95 [main] - com.nt.jdbc.SelectTest:  Connection  obj is closed
+2021-06-20 10:43:24 DEBUG SelectTest2:103 [main] - com.nt.jdbc.SelectTest: end of main(-) method
